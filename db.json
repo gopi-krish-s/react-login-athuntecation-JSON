@@ -1,0 +1,15 @@
+{
+  "user": [
+    {},
+    {
+      "id": "gopi",
+      "name": "gopi",
+      "password": "gopi",
+      "email": "gopi@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    }
+  ]
+}
